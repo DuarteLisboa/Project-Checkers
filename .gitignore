@@ -1,0 +1,7 @@
+.kube
+justfile_teachers
+deployment_teachers
+
+
+api_old
+frontend_old
